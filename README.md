@@ -1,2 +1,2 @@
 # HolaMundo
-My first A2 App
+My first Angular2 App
